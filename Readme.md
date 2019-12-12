@@ -1,0 +1,2 @@
+This is an academic project that aims to detect and track football players and assign each player with its role.
+We used the tensorflow object detection API to detect players in a video from a camera that should be fix and we used a color mask to detect teams and positions thresholding to detect each player role from its movements.
